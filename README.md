@@ -1,4 +1,4 @@
-![<logo align="center">](https://github.com/HadiaFaisal/Hadia-Faisal/blob/main/me.png)
+![logo](https://github.com/HadiaFaisal/HadiaFaisal/blob/main/me.png)
 
 <h1 align="center">Hi 👋, I'm Hadia Faisal</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
