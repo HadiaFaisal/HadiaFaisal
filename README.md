@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiafaisal&label=Profile%20views&color=0e75b6&style=flat" alt="hadiafaisal" /> </p>
 
-- 🔭 I’m currently working on **web development using HTML, CSS**
+- 🔭 I’m currently working on **web development using HTML, CSS and BOOTSTRAP**
 
 - 🌱 I’m currently learning **Programming in C++, web development**
 
